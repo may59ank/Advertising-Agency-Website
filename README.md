@@ -1,7 +1,7 @@
 # AdvertisingAgency
 
 ### Languages used are: <br>
-<img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144096109-142bc06a-d8fd-4100-866b-3c1d6936970d.png"> <img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144101195-a714d556-3578-4170-a5df-e366ba3fe040.png">
+<img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144096109-142bc06a-d8fd-4100-866b-3c1d6936970d.png"> <img width="40" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/144101195-a714d556-3578-4170-a5df-e366ba3fe040.png"> 
 <img width="36" alt="Screenshot 2021-11-30 at 17 33 56" src="https://user-images.githubusercontent.com/46961186/145019566-d13f79da-9059-481d-a570-88be03283ac9.png">
 
 
